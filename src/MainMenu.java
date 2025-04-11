@@ -36,7 +36,7 @@ public class MainMenu extends JFrame {
 
         buttonPanel.add(createButton("ℹ️ Info", e -> {
             JOptionPane.showMessageDialog(this,
-                    "Tic Tac Toe\n\nMade with ❤️ in Java\n\nPlay vs AI and have fun!",
+                    "Tic Tac Toe\n\nMade By Idok\n\nPlay vs AI and have fun!",
                     "Info", JOptionPane.INFORMATION_MESSAGE);
         }));
 
@@ -58,8 +58,6 @@ public class MainMenu extends JFrame {
         getContentPane().setBackground(Color.WHITE);
         setVisible(true);
     }
-
-
 
     private JButton createButton(String text, ActionListener action) {
         JButton button = new JButton(text);
