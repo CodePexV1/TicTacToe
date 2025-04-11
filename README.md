@@ -75,8 +75,14 @@ A modern **Tic Tac Toe** game built in Java with a GUI and AI opponent. The game
 
 ## Screenshots
 
-![Main Menu](./assets/screenshots/main-menu.png)
-![Gameplay](./assets/screenshots/gameplay.png)
+**Menu**
+
+![Screenshot_279](https://github.com/user-attachments/assets/910f8c25-201a-4ad5-aaec-a7f42cbaf92a)
+
+**GamePlay**
+
+![Screenshot_280](https://github.com/user-attachments/assets/8d53291a-d426-42b4-84da-808044e347d7)
+
 
 ---
 
